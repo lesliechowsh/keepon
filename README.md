@@ -1,7 +1,7 @@
 <p align="center"><img src="res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="KeepOn icon"></p>
 <h1 align="center">KeepOn</h1>
 <p align="center">One tap, the screen stays on.</p>
-<p align="center"><a href="README.zh-CN.md">简体中文</a> | <a href="README.zh-TW.md">繁體中文</a> | English | <a href="README.ja.md">日本語</a> | <a href="README.lzh.md">文言</a></p>
+<p align="center">English | <a href="README.zh-CN.md">简体中文</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.lzh.md">文言</a> | <a href="README.wu.md">上海话</a> | <a href="README.ja.md">日本語</a> | <a href="README.ko.md">한국어</a> | <a href="README.fr.md">Français</a> | <a href="README.de.md">Deutsch</a> | <a href="README.pt.md">Português</a> | <a href="README.it.md">Italiano</a></p>
 
 A single round button. Tap it and the screen never times out — in any app,
 on the home screen, anywhere. Tap again and your original screen-timeout

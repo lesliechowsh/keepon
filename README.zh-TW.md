@@ -1,12 +1,12 @@
 <p align="center"><img src="res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="KeepOn 圖示"></p>
 <h1 align="center">KeepOn 螢幕常亮</h1>
 <p align="center">按一下，螢幕不再自動熄滅。</p>
-<p align="center"><a href="README.zh-CN.md">简体中文</a> | 繁體中文 | <a href="README.md">English</a> | <a href="README.ja.md">日本語</a> | <a href="README.lzh.md">文言</a></p>
+<p align="center"><a href="README.zh-CN.md">简体中文</a> | 繁體中文 | <a href="README.lzh.md">文言</a> | <a href="README.wu.md">上海话</a> | <a href="README.md">English</a> | <a href="README.ja.md">日本語</a> | <a href="README.ko.md">한국어</a> | <a href="README.fr.md">Français</a> | <a href="README.de.md">Deutsch</a> | <a href="README.pt.md">Português</a> | <a href="README.it.md">Italiano</a></p>
 
 只有一個圓形按鈕。按下去，任何畫面——任何應用程式、主畫面——螢幕都不會再
 逾時熄滅；再按一下，恢復你原本的螢幕逾時設定。
 
-**整個應用程式在一台 Android 手機上完成開發。**沒有 Android Studio、沒有
+**整個應用程式在一台 Android 手機上完成開發**。沒有 Android Studio、沒有
 SDK、沒有 Gradle，也沒有電腦：`aapt`、`javac`、`d8`、`apksigner` 全部運作於
 [Termux](https://termux.dev)；桌面圖示由僅用標準函式庫的 Python 腳本繪製；
 簽署金鑰與成品安裝包從不離開這支手機。

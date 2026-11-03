@@ -2,6 +2,8 @@
 
 一按而屏長明，再按而復其故。
 
+<p align="center"><a href="README.zh-CN.md">简体中文</a> | <a href="README.zh-TW.md">繁體中文</a> | 文言 | <a href="README.wu.md">上海话</a> | <a href="README.md">English</a> | <a href="README.ja.md">日本語</a> | <a href="README.ko.md">한국어</a> | <a href="README.fr.md">Français</a> | <a href="README.de.md">Deutsch</a> | <a href="README.pt.md">Português</a> | <a href="README.it.md">Italiano</a></p>
+
 是器也，成於掌中一機。無工房（Android Studio），無軟具之倉（SDK），無梯航
 （電腦）：aapt、javac、d8、apksigner 四匠，皆役於 Termux 之內；几上圖符，
 以程式自繪；簽印與成品，未嘗離機。

@@ -5,7 +5,7 @@
      wake lock for PowerKeeper to release), or — until the user grants the
      overlay permission — a SCREEN_BRIGHT_WAKE_LOCK. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="dev.local.keepon" android:versionCode="6" android:versionName="1.5">
+  package="dev.local.keepon" android:versionCode="7" android:versionName="1.6">
   <uses-permission android:name="android.permission.WAKE_LOCK" />
   <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
   <!-- Special app access: the system settings page grants it after install;

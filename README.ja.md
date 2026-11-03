@@ -1,7 +1,7 @@
 <p align="center"><img src="res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="KeepOn アイコン"></p>
 <h1 align="center">KeepOn</h1>
 <p align="center">ワンタップで、画面が消えなくなる。</p>
-<p align="center"><a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a> | 日本語</p>
+<p align="center"><a href="README.zh-CN.md">简体中文</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.md">English</a> | 日本語 | <a href="README.lzh.md">文言</a></p>
 
 丸いボタンがひとつ。タップすれば、どのアプリでも、ホーム画面でも、
 画面が自動で消えることがなくなります。もう一度タップすれば、
@@ -30,7 +30,8 @@ Android Studio も SDK も Gradle も PC も不要。`aapt`・`javac`・`d8`・
 
 1. [Releases](../../releases) から `keepon.apk` をダウンロード（Android 10+）
 2. 「提供元不明のアプリ」のインストールを許可
-3. アプリを開く →「允许修改系统设置」をタップして許可 → 戻って丸いボタンをタップ
+3. アプリを開く →「システム設定の変更」ボタンをタップして許可する →
+   戻って丸いボタンをタップ
 
 > アンインストールする前に、アプリ内で一度オフにしてください。
 > オフにせず消した場合は、設定 → ディスプレイ → 画面タイムアウトを

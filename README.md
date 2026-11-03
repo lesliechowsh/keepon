@@ -1,7 +1,7 @@
 <p align="center"><img src="res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="KeepOn icon"></p>
 <h1 align="center">KeepOn</h1>
 <p align="center">One tap, the screen stays on.</p>
-<p align="center"><a href="README.zh-CN.md">简体中文</a> | English | <a href="README.ja.md">日本語</a></p>
+<p align="center"><a href="README.zh-CN.md">简体中文</a> | <a href="README.zh-TW.md">繁體中文</a> | English | <a href="README.ja.md">日本語</a> | <a href="README.lzh.md">文言</a></p>
 
 A single round button. Tap it and the screen never times out — in any app,
 on the home screen, anywhere. Tap again and your original screen-timeout
@@ -29,7 +29,8 @@ key and the release APK never leave the device.
 
 1. Download `keepon.apk` from [Releases](../../releases) (Android 10+)
 2. Allow "install unknown apps" when prompted
-3. Open the app → tap "允许修改系统设置" → come back and tap the round button
+3. Open the app → tap the modify-system-settings button and allow →
+   come back and tap the round button
 
 > Turn keep-on off inside the app before uninstalling, or reset
 > Settings → Display → Screen timeout by hand.
